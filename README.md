@@ -100,19 +100,6 @@ Example:
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your application inside the **screenshots** folder.
-
-Examples:
-
-- Main Menu
-- Add Student
-- Search Student
-- Delete Student
-- CSV Output
-
----
 
 ## 🔮 Future Improvements
 
