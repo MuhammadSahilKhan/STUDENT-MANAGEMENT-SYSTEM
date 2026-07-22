@@ -114,6 +114,11 @@ def Save_Data():
 
 while True:
 
+    print("===========================================")
+    print("         STUDENT MANAGEMENT SYSTEM         ")
+    print("       Institute of Space Technology       ")
+    print("===========================================\n")
+
     print("1. Add Student")
     print("2. Search Student")
     print("3. Delete Student")
