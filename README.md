@@ -36,14 +36,8 @@ Student-Management-System/
 │
 ├── SMS.py              # Main application
 ├── SMS.csv             # Student data (generated after saving)
-├── README.md
-├── LICENSE
-└── screenshots/
-    ├── menu.png
-    ├── add-student.png
-    └── search-student.png
-```
-
+└── README.md
+ 
 ---
 
 ## 🚀 How to Run
